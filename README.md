@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me on github
+- 📫 How to reach me: github 🤙🏻
 
 <!---
 algoritejam/algoritejam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
